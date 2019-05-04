@@ -22,6 +22,7 @@ iframe {
 
 .status1 li {
   list-style: none;
+  padding-bottom: 10px;
 }
 
 .status2 li {
